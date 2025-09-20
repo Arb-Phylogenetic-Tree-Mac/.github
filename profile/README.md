@@ -1,7 +1,7 @@
 # Arb Mac – Phylogenetic Tree and Sequence Analysis for macOS
 
 <div align="center">  
-<img src="https://images.seeklogo.com/logo-png/1/2/arb-logo-png_seeklogo-10242.png" alt="Arb Mac Logo">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DW7D3Va3kvzgkPT8Ygz4BfOVJaAmJzVpZw&s" alt="Arb Mac Logo">  
 </div>  
 
 <div align="center">  
